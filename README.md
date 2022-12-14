@@ -1,6 +1,8 @@
 # population
 DÜNYA NÜFUS VERİLERİNE DAYANARAK ÜLKELERİN GELECEK NÜFUSLARININ
 TAHMİNLENMESİ
+
+
 14 Kasım 2022 yi 15 kasım 2022 ye bağlayan gece dünya tarihinde önemli bir tarih
 oldu. Bu tarihte dünya nüfusu 8 milyara ulaştı ve dünya literatürüne bugün 8 milyar günü
 olarak geçti. 1925 yılında 2 milyar olan nüfusumuz 1974 yılında bunu katlayarak 4 milyar
